@@ -7,8 +7,6 @@
         <!-- Header-->
         <header class="masthead d-flex align-items-center">
             <div class="container px-4 px-lg-5 text-center">
-                <h1 class="mb-1">Stylish Portfolio</h1>
-                <h3 class="mb-5"><em>A Free Bootstrap Theme by Start Bootstrap</em></h3>
                 <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
             </div>
         </header>
@@ -17,10 +15,10 @@
             <div class="container px-4 px-lg-5 text-center">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-10">
-                        <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
+                        <h2>makita sa ubos kung unsa among mga offer for this store or etc.</h2>
                         <p class="lead mb-5">
-                            This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at
-                            <a href="https://unsplash.com/">Unsplash</a>
+                            click ni para ma check sa social media ang store
+                            <a href="#social">click here</a>
                             !
                         </p>
                         <a class="btn btn-dark btn-xl" href="#services">What We Offer</a>
@@ -68,10 +66,10 @@
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mx-auto mb-5">
                     Welcome to
-                    <em>your</em>
+                    <em>my</em>
                     next website!
                 </h2>
-                <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/theme/stylish-portfolio/">Download Now!</a>
+                <a class="btn btn-primary btn-xl" href="">Download Now!</a>
             </div>
         </section>
         <!-- Portfolio-->
@@ -90,7 +88,7 @@
                                     <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio-1.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/pictureno1.jpg" alt="..." />
                         </a>
                     </div>
                     <div class="col-lg-6">
@@ -101,7 +99,7 @@
                                     <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio-2.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/pictureno2.jpg" alt="..." />
                         </a>
                     </div>
                     <div class="col-lg-6">
@@ -112,7 +110,7 @@
                                     <p class="mb-0">Strawberries are such a tasty snack, especially with a little sugar on top!</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio-3.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/pictureno3.jpg" alt="..." />
                         </a>
                     </div>
                     <div class="col-lg-6">
@@ -123,7 +121,7 @@
                                     <p class="mb-0">A yellow workspace with some scissors, pencils, and other objects.</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio-4.jpg" alt="..." />
+                            <img class="img-fluid" src="assets/img/pictureno5.jpg" alt="..." />
                         </a>
                     </div>
                 </div>
@@ -133,8 +131,8 @@
         <section class="content-section bg-primary text-white">
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mb-4">The buttons below are impossible to resist...</h2>
-                <a class="btn btn-xl btn-light me-4" href="#!">Click Me!</a>
-                <a class="btn btn-xl btn-dark" href="#!">Look at Me!</a>
+                <a class="btn btn-xl btn-light me-4" href="/login">Click Me!</a>
+                <a class="btn btn-xl btn-dark" href="#portfolio">Look at Me!</a>
             </div>
         </section>
         <!-- Map-->
